@@ -1,0 +1,15 @@
+Helper
+JuniorEnigneer
+HRManger
+Clerk
+DeputiyEnginner
+Helper
+SwitchBoardOperator 
+SwitchBoardOperator 
+SafetyOfficer
+CA
+DeputiyEnginner
+Clerk
+JuniorEnigneer
+JuniorEnigneer
+Technician
